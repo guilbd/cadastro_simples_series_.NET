@@ -1,0 +1,15 @@
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\refint\Dio.Series.dll
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
+G:\DIO\UNIMED\C\ASP\Criando um APP simples de cadastro de séries em .NET\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
